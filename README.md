@@ -1,2 +1,6 @@
-# platzi-store
-Curso de Pruebas unitarias con Jest
+## Store
+- React
+    - React-Router
+    - Redux
+- Jest
+- Travis CI
