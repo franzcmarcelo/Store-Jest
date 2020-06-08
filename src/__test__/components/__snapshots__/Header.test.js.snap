@@ -11,7 +11,7 @@ exports[`Header Snapshot Comprobar el Snapshot de Header 1`] = `
       href="/"
       onClick={[Function]}
     >
-      Platzi Store
+      Store
     </a>
   </h1>
   <div
